@@ -7,7 +7,7 @@ Click the demo to try it out by yourself.
 ## Simon Game Demo
 
 You can view the site here
-[Click Me](https://iamsymbiote.github.io/simon-game/)
+[Click Me](https://iamsymbiote.github.io/Simon-Game/)
 
 ## Topics
 
